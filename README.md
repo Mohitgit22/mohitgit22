@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hey ! This is Mohit</h1>
 
-<!--
-**Mohitgit22/mohitgit22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a  align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitgit22&layout=compact" />
+</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href=""  align="center">
+    <img src="https://github-readme-stats-peach-pi.vercel.app/api?username=mohitgit22&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=45,2b8eaf,b222a8&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=000000"/>
+   
+</a>
+
+</p>
