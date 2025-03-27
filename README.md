@@ -1,6 +1,6 @@
 # Hi there, I'm Mohit Verma 👋
 
-## 🚀 Web Developer | MERN Stack Specialist
+## 🚀 Web Developer | MERN Stack | FULL Stack
 
 I'm a passionate web developer from India, dedicated to creating robust and scalable web applications. With expertise in the MERN stack and a strong foundation in various programming technologies, I'm committed to solving complex problems and delivering high-quality software solutions.
 
